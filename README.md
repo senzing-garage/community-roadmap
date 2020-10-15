@@ -46,8 +46,8 @@ Senzing follows the meaning of
 [GitHub Reaction types](https://developer.github.com/v3/reactions/#reaction-types).
 Meaning of reactions used to determine priority:
 
-1. :thumbsup: - Essentially "+1".  Yes, I want this feature.
-1. :thumbsdown: - You guessed it, "-1".  Nope, not for me.
+1. :thumbsup: - Thumbs up. Essentially "+1".  Yes, I want this feature.
+1. :thumbsdown: - Thumbs down. You guessed it, "-1".  Nope, not for me.
 
 To vote for a feature, add a reaction:
 
