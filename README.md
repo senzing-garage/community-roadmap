@@ -29,7 +29,8 @@ Visit the [Senzing Community Roadmap](https://github.com/Senzing/community-roadm
 
 1. **Q: Can I comment on a feature request?**
 
-   A: Senzing encourages comments!
+   A: Yes!
+   Senzing encourages comments.
    Please add comments with any concerns, issues, or approaches you'd like Senzing to consider.
 
 1. **Q: Are all future features listed in the roadmap?**
@@ -40,7 +41,7 @@ Visit the [Senzing Community Roadmap](https://github.com/Senzing/community-roadm
 
 1. **Q: How do I request a new feature?**
 
-   A: See [How to request a new feature](#how-to-request-a-new-feature)
+   A: See "[How to request a new feature](#how-to-request-a-new-feature)".
 
 ## How to request a new feature
 
@@ -49,7 +50,7 @@ Visit the [Senzing Community Roadmap](https://github.com/Senzing/community-roadm
     1. Click on the "issues" link
     1. Click on the "New issue" button
     1. Create a new "Feature request"
-1. To request a feature that is not tied to a particular existing Senzing GitHub repository,
+1. To request a feature that is not tied to a particular Senzing GitHub repository,
    create a new community-roadmap
    [feature request](https://github.com/Senzing/community-roadmap/issues/new?template=feature_request.md).
 
