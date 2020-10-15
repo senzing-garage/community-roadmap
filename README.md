@@ -23,7 +23,8 @@ Visit the [Senzing Community Roadmap](https://github.com/Senzing/community-roadm
 
    A: Senzing is a customer-focused company.
    When customer requirements come in, they take priority.
-   If a particular feature request is of importance to you, give it a "thumbs up"
+   If a particular feature request is of importance to you,
+   [vote](#voting) giving it a "thumbs up"
    to help Senzing prioritize based on customer needs.
 
 1. **Q: Can I comment on a feature request?**
@@ -43,9 +44,11 @@ Visit the [Senzing Community Roadmap](https://github.com/Senzing/community-roadm
 
 ## How to request a new feature
 
-1. To request a feature for a given repository, please visit the repository
-   click on the "issues" link, click on the "New issue" button, and create a new
-   "Feature request".
+1. To request a feature for a given repository:
+    1. Visit the repository
+    1. Click on the "issues" link
+    1. Click on the "New issue" button
+    1. Create a new "Feature request"
 1. To request a feature that is not tied to a particular existing Senzing GitHub repository,
    create a new community-roadmap
    [feature request](https://github.com/Senzing/community-roadmap/issues/new?template=feature_request.md).
