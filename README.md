@@ -49,7 +49,8 @@ To vote for a feature, add a reaction:
 
 1. Open the issue.
 1. On the initial comment, click "smiley" icon to add a reaction
-   ![Reaction](docs/images/reaction.png)
+
+![Reaction](docs/images/reaction.png)
 
 Meaning of reactions used to determine priority:
 
