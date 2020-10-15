@@ -39,3 +39,19 @@ Visit the [Senzing Community Roadmap](https://github.com/Senzing/community-roadm
 1. To request a feature that is not tied to a particular existing Senzing GitHub repository,
    create a new community-roadmap
    [feature request](https://github.com/Senzing/community-roadmap/issues/new?template=feature_request.md).
+
+## Voting
+
+Senzing follows the meaning of
+[GitHub Reaction types](https://developer.github.com/v3/reactions/#reaction-types).
+
+To vote for a feature, add a reaction:
+
+1. Open the issue.
+1. On the initial comment, click "smiley" icon to add a reaction
+   ![Reaction](docs/images/reaction.png)
+
+Meaning of reactions used to determine priority:
+
+1. :thumbsup: - Essentially "+1".  Yes, I want this feature.
+1. :thumbsdown: - You guessed it, "-1".  Nope, not for me.
