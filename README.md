@@ -1,10 +1,22 @@
 # community-roadmap
 
-The [Senzing Community Roadmap](https://github.com/Senzing/community-roadmap/projects/1)
+If you are beginning your journey with
+[Senzing](https://senzing.com/),
+please start with
+[Senzing Quick Start guides](https://docs.senzing.com/quickstart/).
+
+You are in the
+[Senzing Garage](https://github.com/senzing-garage)
+where projects are "tinkered" on.
+Although this GitHub repository may help you understand an approach to using Senzing,
+it's not considered to be "production ready" and is not considered to be part of the Senzing product.
+Heck, it may not even be appropriate for your application of Senzing!
+
+The [Senzing Community Roadmap](https://github.com/senzing-garage/community-roadmap/projects/1)
 gives a peek into the future of the Senzing Community.
 It is the public roadmap for requesting and following the growth of the Senzing Community offerings.
 
-Visit the [Senzing Community Roadmap](https://github.com/Senzing/community-roadmap/projects/1).
+Visit the [Senzing Community Roadmap](https://github.com/senzing-garage/community-roadmap/projects/1).
 
 ## FAQs
 
@@ -52,7 +64,7 @@ Visit the [Senzing Community Roadmap](https://github.com/Senzing/community-roadm
     1. Create a new "Feature request"
 1. To request a feature that is not tied to a particular Senzing GitHub repository,
    create a new community-roadmap
-   [feature request](https://github.com/Senzing/community-roadmap/issues/new?template=feature_request.md).
+   [feature request](https://github.com/senzing-garage/community-roadmap/issues/new?template=feature_request.md).
 
 ## Voting
 
